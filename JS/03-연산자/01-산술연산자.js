@@ -25,7 +25,7 @@ console.log(myValue3/myValue4);
 //4)문자열 연산
 //01 문자열 끼리의 덧셈
 const myString1='Hello';
-const myString='World';
+const myString2='World';
 console.log(myString1+myString2);
 
 //02 무자열과 다른 타입의 덧셈
